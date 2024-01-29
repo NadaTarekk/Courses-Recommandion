@@ -1,1 +1,1 @@
-# POC-Toy-Kyber
+# PQC-Toy-Kyber
